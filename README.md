@@ -7,6 +7,6 @@ Architect & PM (8 yrs, Seoul) building software for the built environment.
 - **Tankhanger Manager** — field operations tool for an install-based furniture business
 - **Babzull** — a small lunch-picker app, just for fun
 
-📍 In San Francisco for SF Tech Week, Oct 5–15
+📍 In San Francisco for SF Tech Week, Oct 5–13
 
 [LinkedIn](https://www.linkedin.com/in/yewon-lee-74507443a/)
